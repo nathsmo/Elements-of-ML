@@ -36,5 +36,5 @@ Este curso fue una introducción al Aprendizaje Estadístico de datos. El aprend
 ## Homework laboratories
 
 **You may find the final proyect in the following repository**
-4. [Victim analysis from the national police report on 2017](https://github.com/nathsmo/Victimas_PNC_2017)
+[Victim analysis from the national police report on 2017](https://github.com/nathsmo/Victimas_PNC_2017)
 
