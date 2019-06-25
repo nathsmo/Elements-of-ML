@@ -7,6 +7,7 @@ Here is my work done in the Machine Learning Elements class during the first sem
 
 The class's professor was Diego Porres and the class was taken in Universidad Francisco Marroquín.
 
+## CLASS DESCRIPTION GIVEN BY THE PROFESSOR
 
 **Objetivos del curso**
 
@@ -26,3 +27,14 @@ Al final del curso, se buscaba que el estudiante pudiera:
 **Oportunidades y descripción del curso**
 
 Este curso fue una introducción al Aprendizaje Estadístico de datos. El aprendizaje estadístico (Statistical Learning) busca encontrar distintas dependencias funcionales entre las variables independientes (estimadores) y las dependientes (respuestas). Dependiendo de la aplicación, se busca predecir futuros comportamientos, inferir la relación entre dichas variables o ambos. Los datos en el mundo real son complejos y contienen bastante ruido, por lo que se han desarrollado distintas técnicas para tratar de comprenderlos. En éste curso se verá el fundamento matemático detrás de los algoritmos más famosos utilizados hoy en día y veremos usos prácticos de los mismos. Por lo tanto, se espera que el alumno tenga una buena base de Cálculo, Probabilidad, Estadística y Álgebra Lineal. Nos enfocaremos principalmente en técnicas en Aprendizaje Supervisado (regresión lineal, regresión logística, k-vecinos más cercanos, entre otros), pero también veremos al final técnicas en Aprendizaje No Supervisado (Clustering, PCA, entre otros).
+
+
+# Contents
+
+## Class Exercises
+
+## Homework laboratories
+
+**You may find the final proyect in the following repository**
+4. [Victim analysis from the national police report on 2017](https://github.com/nathsmo/Victimas_PNC_2017)
+
